@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.gradient{
+  background:linear-gradient(65deg,#ff9083,#ff6250);
+  color:white !important;
+}
+.shadow{
+  box-shadow: inset 10px 10px 50px gainsboro;
+    border-radius: 30px;
+
+}
+
+.scroll{
+  scroll-behavior: smooth;
+}
